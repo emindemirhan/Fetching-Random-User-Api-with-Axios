@@ -1,3 +1,10 @@
+# Site is live on Netlfy.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79ea3d6d-0649-4303-ad5c-23d9fb051682/deploy-status)](https://62967270db9cee00bcc08fe9--papaya-quokka-a6fa0a.netlify.app/)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
